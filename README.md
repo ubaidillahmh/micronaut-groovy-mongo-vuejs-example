@@ -49,8 +49,8 @@ $ curl \
 ```
 
 ### References
-
+```
 https://gitlab.com/ssadedin/micronaut-vuejs
 https://github.com/jeantessier/micronaut-mongo-gorm-example
-
+```
 
