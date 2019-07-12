@@ -1,4 +1,4 @@
-# micronaut-vuejs
+# micronaut-vuejs-mongo
 
 VueJS and Micronaut are currently two of my favorite technologies, and they complement 
 each other beautifully: VueJS handles the front end, while Micronaut runs the back end.
@@ -6,6 +6,8 @@ each other beautifully: VueJS handles the front end, while Micronaut runs the ba
 However, getting a project set up that plugs them both together requires a lot of configuration
 steps. This is simple skeleton project to enable rapid creation of a VueJS front end backed by 
 Micronaut backend with just a couple of commands.
+
+And connected to mongodb.
 
 ## Requirements
 
